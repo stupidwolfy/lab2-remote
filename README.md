@@ -2,8 +2,10 @@
 ## Lab 2
 **StudentID** : 61070268
 **Name**: Arnon Unton
-> *King Mongkut's Institute of Technology Ladkrabang*
+> [*IT @ KMITL*](https://www.it.kmitl.ac.th)
 
 ```language python
-print("hello world")
+print("Hello world, IT @ KMITL")
 ```
+
+[![IT](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th)
